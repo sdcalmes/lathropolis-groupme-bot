@@ -1,0 +1,8 @@
+{
+    "API_URL": "https://api.groupme.com/v3/",
+    "TOKEN": "GroupMe API Token",
+    "GROUPME_BOT_NAME": "",
+    "LAST_CHECKED_MSG_ID": "",
+    "GPT_EMAIL": "ChatGPT Email",
+    "GPT_PASSWORD": "ChatGPT Password"
+}
